@@ -1,5 +1,5 @@
 # Git & GitHub
-Este es mi guia personal para usar 'Git' y 'Github'.
+Esta es mi guia personal para usar 'Git' y 'Github'.
 
 ## Qué es Git?
 Git es un software de control de versiones, de uso libre bajo la licencia GNU, que tiene como proposito llevar registro de computadora, coordinando tambien el trabajo realizado en simultaneo por diferentes usuarios en un repositorio de codigo compartido.
